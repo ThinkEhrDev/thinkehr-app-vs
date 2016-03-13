@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "thinkehr-app-vs", "..\..\WebSites\thinkehr-app-vs", "{4B392A71-CAC9-47BF-82D0-1CFC9987AAD6}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "thinkehr-app-vs", ".", "{4B392A71-CAC9-47BF-82D0-1CFC9987AAD6}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_65474"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\thinkehr-app-vs\"
+		Debug.AspNetCompiler.PhysicalPath = ""
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65474\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_65474"
-		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\thinkehr-app-vs\"
+		Release.AspNetCompiler.PhysicalPath = ""
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65474\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "65474"
-		SlnRelativePath = "..\..\WebSites\thinkehr-app-vs\"
+		SlnRelativePath = ""
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
